@@ -18,5 +18,3 @@
 - 👯 I'm looking to collaborate on projects in any one of the above mentioned languages
 - 🤔 I’m looking for help with Android Development, particularly Jetpack Compose
 - 💬 Ask me about ... what am working on, collaborations, github educational, 
-- 📫 You can reach my through my emails lawrenceakpainay@gmail.com | lawrence.kpainay20@inphb.ci
-- ⚡ Fun fact: am still researching my interesting fun fact of 2023. And I guess that is in and of itself, a fun FACT
